@@ -11,4 +11,25 @@ Segue o link: https://fontawesome.com/v4.7.0/get-started/
 */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css');
 
+/* Zera as margens e espaços internos */
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
+/* Configurações do cabeçalho */
+header {
+    width: 100%;
+    height: 100vh;
+}
+
+/* div que possui a imagem */
+.img-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100vh;
+}
