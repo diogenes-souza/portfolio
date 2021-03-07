@@ -2,11 +2,11 @@
  Meu Portfólio 
 
 ## Tarefas
- O controle das tarefas do projeto será realizado via Notion SZ
+ O controle das tarefas do projeto será realizado via Notion :blue_heart:
 
 ## Ícones
 
-:package: Novas Funcionalidades
-:up: Atualização
-:beatle: Correção de bug
-:checkered_flag: Release
+- :package: Novas Funcionalidades
+- :up: Atualização
+- :beetle: Correção de bug
+- :checkered_flag: Release
